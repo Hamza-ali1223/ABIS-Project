@@ -4,7 +4,7 @@
 
 ## 🎥 Demo Video
 
-![Demo Video](demo.mp4)
+https://github.com/user-attachments/assets/demo.mp4
 
 *Watch the assistant in action - creating calendar events, drafting emails, and engaging in natural conversation!*
 
