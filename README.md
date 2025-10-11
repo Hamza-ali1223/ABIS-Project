@@ -4,7 +4,7 @@
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/Hamza-ali1223/ABIS-Project/releases/download/release/demo.mp4
 
 *Watch the assistant in action - creating calendar events, drafting emails, and engaging in natural conversation!*
 
