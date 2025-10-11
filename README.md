@@ -4,7 +4,13 @@
 
 ## 🎥 Demo Video
 
-https://github.com/Hamza-ali1223/ABIS-Project/releases/download/release/demo.mp4
+<video src="https://github.com/Hamza-ali1223/ABIS-Project/releases/download/release/demo.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
+**Can't see the video?** [Download it here](https://github.com/Hamza-ali1223/ABIS-Project/releases/download/release/demo.mp4) or [view the release](https://github.com/Hamza-ali1223/ABIS-Project/releases/tag/release)
+
+---
 
 *Watch the assistant in action - creating calendar events, drafting emails, and engaging in natural conversation!*
 
